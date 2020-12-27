@@ -1,0 +1,87 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.container-fluid {
+  padding: 1% 10%;
+}
+
+.navbar {
+  padding-bottom: 4rem;
+  margin: 1rem;
+}
+
+.navbar-brand {
+  font-family: fantasy;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 16px;
+  font-size: 1rem;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #000000;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+.download-botton {
+  margin: 5% 2%;
+}
+.title-img {
+  width: 60%;
+  transform: rotate(20deg);
+}
+
+
+#features{
+    text-align: center;
+    padding: 7% 15%;
+
+}
+
+.far ,.fas{
+    color: #ff4c68;
+    margin-bottom: 10px;
+}
+.feature-box{
+    padding: 5%;
+}
+
+i:hover{
+    color: #f32828;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+.testimonial-img{
+  border-radius: 100px;
+  width: 15%;
+  padding: 20px;
+}
+#press{
+  text-align: center;
+  background-color: #ff4c68;
+  padding-bottom: 3%;
+
+}
+
+.press-logo{
+  padding: 10px;
+  width: 15%;
+}
